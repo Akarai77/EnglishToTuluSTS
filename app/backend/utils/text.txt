@@ -1,0 +1,88 @@
+What is your name?
+Where are you from?
+What do you do?
+I am a student.
+I am a teacher.
+What time is it?
+Can you help me?
+Yes, of course.
+No, I am sorry.
+What is the matter?
+Nothing much.
+Do you speak English?
+Yes, I do.
+No, I don’t.
+I don’t understand.
+Please repeat that.
+Can you speak slowly?
+Thank you very much.
+You’re welcome.
+Sorry, I’m late.
+That’s okay.
+How old are you?
+Do you have siblings?
+No, I am an only child.
+What is your favorite color?
+What is your favorite food?
+I love pizza.
+What do you like to do?
+I like to read books.
+Do you have pets?
+Yes, I have a dog.
+No, I don’t have any pets.
+Where do you live?
+What are you doing?
+I am working.
+I am studying.
+How was your day?
+It was great, thank you.
+It was tiring.
+Do you have a car?
+Yes, I do.
+No, I don’t.
+What’s your phone number?
+Where is the nearest store?
+It’s down the street.
+How much does this cost?
+Can I have the bill, please?
+Yes, here it is.
+What’s your favorite movie?
+Do you like music?
+Yes, I enjoy listening to music.
+What kind of music do you like?
+I like pop music.
+Can you play any instruments?
+Yes, I play the guitar.
+No, I don’t.
+Do you like sports?
+Yes, I like soccer.
+No, I’m not into sports.
+How do you get to work?
+I take the bus.
+I drive my car.
+Can I borrow this?
+Yes, you can.
+No, sorry.
+What’s your plan for today?
+I’m going to the mall.
+I’m staying home.
+What’s the weather like?
+It’s sunny.
+It’s raining.
+Can I ask you something?
+Sure, go ahead.
+Where can I find this?
+It’s over there.
+Do you need help?
+Yes, please.
+No, thank you.
+What are you cooking?
+I’m making pasta.
+How long will it take?
+About 30 minutes.
+Can I come with you?
+Yes, let’s go!
+No, maybe another time.
+What’s wrong?
+I have a headache.
+Let’s meet tomorrow.
